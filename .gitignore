@@ -1,0 +1,10 @@
+# 忽略所有 CSV 文件（这是最保险的）
+*.csv
+
+# 或者精确忽略最大的几个
+tracks_features.csv
+top10k-spotify-artist-metadata.csv
+
+# 忽略 IDE 配置文件
+.idea/
+.vscode/
