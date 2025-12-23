@@ -2,8 +2,8 @@
 *.csv
 
 # 或者精确忽略最大的几个
-tracks_features.csv
-top10k-spotify-artist-metadata.csv
+data/song_info/tracks_features.csv
+data/music_artist/top10k-spotify-artist-metadata.csv
 
 # 忽略 IDE 配置文件
 .idea/
